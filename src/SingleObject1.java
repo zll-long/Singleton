@@ -16,5 +16,6 @@ public class SingleObject1 {
 
     public void ShowMessage(){
         System.out.println("这是饿汉模式");
+        System.out.println("测试test");
     }
 }
